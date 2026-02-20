@@ -1,1 +1,1 @@
-My first readme
+This is my first SET pre-course repository
