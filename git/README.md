@@ -1,1 +1,1 @@
-This directory contains git related tasks
+Updated README from GitHub collaboration practice.
